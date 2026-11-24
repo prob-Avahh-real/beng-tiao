@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">甭跳</string>
+    <string name="title_activity_main">甭跳</string>
+    <string name="package_name">com.skat.bengtiao</string>
+    <string name="custom_url_scheme">com.skat.bengtiao</string>
+    <string name="a11y_service_description">甭跳：检测应用打开后的跨应用跳转与开屏「跳过」按钮，自动返回或点击跳过，减少跳转广告打扰。</string>
+</resources>

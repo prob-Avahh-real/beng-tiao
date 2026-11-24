@@ -1,0 +1,17 @@
+{
+  "appId": "com.skat.bengtiao",
+  "appName": "甭跳",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#12140f"
+    }
+  }
+}
